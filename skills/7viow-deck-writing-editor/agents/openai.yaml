@@ -1,0 +1,7 @@
+interface:
+  brand_color: "#23593B"
+  display_name: "7viow Deck Writing Editor v0.5.3"
+  short_description: "Write and review decks or prepare creator briefs"
+  default_prompt: "Use $7viow-deck-writing-editor to write or review this presentation content, or prepare a brief for its creator, within the requested scope."
+policy:
+  allow_implicit_invocation: true

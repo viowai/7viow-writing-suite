@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "7viow-writing-partner",
+  "version": "0.5.3",
+  "description": "Co-writing, author voice, marketing concepts, and focused feedback.",
+  "author": {
+    "name": "Viow"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "writing",
+    "content",
+    "collaboration",
+    "style-anchor",
+    "marketing",
+    "slogans"
+  ],
+  "repository": "https://github.com/viowai/7viow-writing-suite",
+  "homepage": "https://github.com/viowai/7viow-writing-suite#readme"
+}
