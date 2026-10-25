@@ -4,7 +4,7 @@ description: Direct prose editing and composition. Use to audit or revise suppli
 license: Apache-2.0
 metadata:
   author: "Viow"
-  version: "0.6.2"
+  version: "0.7.0"
 ---
 # Writing Editor
 
@@ -30,6 +30,8 @@ Before drafting or reviewing prose, read [prose-quality-gate.md](references/pros
 5. Check every applicable issue in the prose quality gate: reader understanding, usefulness to the reader, and restrained expression. Repair confirmed defects and applicable excesses, then reread and recount the affected copy while preserving meaning. Findings-only work reports the necessary repair within its review scope. A remaining protected-text conflict is reported outside the copy; a round count or detector result cannot establish completion.
 
 Return copy or findings first. Keep material gaps and author notes outside copy-ready text. Apply substantive omissions only within the user's scope. Sensitive material stays within its requested purpose; approval of copy alone does not authorize distribution.
+
+For consequential gaps in the editing brief or reusable revision rules, read [Talis handoff](references/cooperation-and-output.md#talis-handoff). A clear one-off edit continues here; the optional request template preserves the current scope.
 
 ## Work with other roles
 

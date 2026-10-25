@@ -4,7 +4,7 @@ description: "Presentation content: audit a deck, plan its narrative and page se
 license: Apache-2.0
 metadata:
   author: "Viow"
-  version: "0.5.3"
+  version: "0.6.0"
 ---
 # Deck Writing Editor
 
@@ -33,6 +33,8 @@ Before writing or reviewing audience copy, read [prose-quality-gate.md](referenc
 5. Use the route-relevant review in [quality-gates-and-profiles.md](references/quality-gates-and-profiles.md). Compare claims and page dependencies directly with the source. Check every applicable prose issue: reader understanding, usefulness to the reader, and restrained expression. Repair confirmed defects and applicable excesses, then reread the actual copy. Apply the gate separately to ordered screen copy and speaker prose while retaining necessary slide structure. Deliver the checked candidate even if human approval or later production is pending.
 
 ## Conditional branches
+
+- For consequential gaps in the audience or decision brief, or a recurring presentation request, read [Talis handoff](references/artifact-and-handoff.md#talis-handoff). Keep an established page task with its current content owner.
 
 - For long-deck expansion, conservative page compression, continuation from manual edits, or serial chapter revision, read the applicable section of [long-deck-revision.md](references/long-deck-revision.md).
 - For production from supplied content, a reference for autonomous creation, a sendable brief, a returned production issue, native readback, or accessibility handoff, read the corresponding section of [artifact-and-handoff.md](references/artifact-and-handoff.md).

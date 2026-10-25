@@ -24,17 +24,31 @@ Claude Code 把 `codex` 换成 `claude-code`，Cursor 换成 `cursor`。默认�
 
 ## 选择技能，开始写作
 
-[套装 v0.1.1](https://github.com/viowai/7viow-writing-suite/releases/tag/v0.1.1) 包含以下三个技能。套装与技能分别编号，更新时以对应入口为准。
+[套装 v0.2.0](https://github.com/viowai/7viow-writing-suite/releases/tag/v0.2.0) 包含以下三个技能。套装与技能分别编号，更新时以对应入口为准。
 
 | 技能 | 版本 | 适合做什么 | 安装后的第一条请求 |
 |---|---|---|---|
-| [Writing Partner](skills/7viow-writing-partner/SKILL.md) | 0.5.3 | 找作者声音、发展营销概念、比较表达方向、连续共写 | 用 Writing Partner，根据这些事实给我三个不同的开头，再按我选中的方向继续写。 |
-| [Writing Editor](skills/7viow-writing-editor/SKILL.md) | 0.6.2 | 直接审阅、改稿、编辑文件，或从明确简报成稿 | 用 Writing Editor 修改下面这段文字，保留事实、数字和我的立场：…… |
-| [Deck Writing Editor](skills/7viow-deck-writing-editor/SKILL.md) | 0.5.3 | 安排演示叙事、页序、页面文字、讲稿与制作交接 | 用 Deck Writing Editor，把这些材料整理成6页演示内容，每页给标题、屏幕文案和讲述支持。 |
+| [Writing Partner](skills/7viow-writing-partner/SKILL.md) | 0.6.0 | 找作者声音、发展营销概念、比较表达方向、连续共写 | 用 Writing Partner，根据这些事实给我三个不同的开头，再按我选中的方向继续写。 |
+| [Writing Editor](skills/7viow-writing-editor/SKILL.md) | 0.7.0 | 直接审阅、改稿、编辑文件，或从明确简报成稿 | 用 Writing Editor 修改下面这段文字，保留事实、数字和我的立场：…… |
+| [Deck Writing Editor](skills/7viow-deck-writing-editor/SKILL.md) | 0.6.0 | 安排演示叙事、页序、页面文字、讲稿与制作交接 | 用 Deck Writing Editor，把这些材料整理成6页演示内容，每页给标题、屏幕文案和讲述支持。 |
 
 在 Codex 可用 `$7viow-writing-partner`、`$7viow-writing-editor`、`$7viow-deck-writing-editor` 明确调用；其他宿主可从技能菜单选择，或在请求中写出名称。安装后如果当前会话没有显示新技能，先新开会话或刷新技能列表。
 
 三个技能各自带齐方法与资源。组合时由当前文稿主责整合修改，无需按固定顺序调用。Deck 负责演示内容；实际 PPTX 编辑、排版和导出使用宿主已有工具或你选择的制作技能。
+
+## 与 Talis 配合（可选）
+
+Mac 用户可以用 [Talis](https://github.com/viowai/7viow-talis) 补齐写作需求，或把常用请求保存为个人模板。需求已经明确时，直接在当前 Agent 写作；三个技能各自可以独立使用。
+
+| 当前需要 | 配合方式 | 可复制的请求模板 |
+|---|---|---|
+| 读者、用途或表达方向还不清楚 | 在 Talis 用追问模式补齐关键条件，再回到 Partner 探索写法 | [Writing Partner 模板](skills/7viow-writing-partner/references/source-and-handoff.md#talis-handoff) |
+| 经常按同一套规则改稿 | 保存保留事实、修改范围和目标语气，下次替换原文 | [Writing Editor 模板](skills/7viow-writing-editor/references/cooperation-and-output.md#talis-handoff) |
+| 反复准备同类汇报 | 保存听众、预期决定、材料版本和已确认主线，再交给 Deck | [Deck Writing Editor 模板](skills/7viow-deck-writing-editor/references/artifact-and-handoff.md#talis-handoff) |
+
+已在用 Talis 时，直接填写模板并复制请求回来；材料文件通过接收工具的附件功能提供。Talis 负责整理和保存请求，写作与技能调用在接收端完成。非 Mac 用户也可以把同一份模板保存在当前工具中。
+
+需要安装 Talis 的 Mac 用户可使用其[源码安装说明](https://github.com/viowai/7viow-talis/blob/main/docs/agent-install.md)。手动填写和复制模板无需 AI 调用；Talis 的追问与 AI 改写使用你在 App 中配置的模型。
 
 ## 调整文风
 

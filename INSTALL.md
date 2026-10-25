@@ -22,7 +22,7 @@
 npx --yes skills@1.7.4 add viowai/7viow-writing-suite --agent codex --skill "*" --copy --yes
 ```
 
-固定安装本次发行时，将命令中的 `viowai/7viow-writing-suite` 换成 `https://github.com/viowai/7viow-writing-suite/tree/v0.1.1`。
+固定安装本次发行时，将命令中的 `viowai/7viow-writing-suite` 换成 `https://github.com/viowai/7viow-writing-suite/tree/v0.2.0`。
 
 只需要 Editor 时，把 `--skill "*"` 换成 `--skill 7viow-writing-editor`。更换宿主时只替换 `--agent` 参数：
 
@@ -87,6 +87,8 @@ npx --yes skills@1.7.4 list --agent codex
 ```
 
 三个技能独立工作，无需先执行初始化技能。更多请求示例见 [README](README.md#选择技能开始写作)。
+
+Talis 是可选的 Mac 请求整理工具，Writing 的安装命令只安装写作技能。协作方式与各角色模板见 [README](README.md#与-talis-配合可选)；已有 Talis 的用户可直接复制使用。
 
 ## 更新和移除
 

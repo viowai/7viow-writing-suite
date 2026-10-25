@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "7viow-writing-editor",
-  "version": "0.6.2",
+  "version": "0.7.0",
   "description": "Direct prose audit, revision, file editing, and composition from an established brief.",
   "author": {
     "name": "Viow"

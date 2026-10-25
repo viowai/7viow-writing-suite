@@ -4,7 +4,7 @@ description: Co-writing and marketing concepts. Use to develop an author's voice
 license: Apache-2.0
 metadata:
   author: "Viow"
-  version: "0.5.3"
+  version: "0.6.0"
 ---
 # Writing Partner
 
@@ -21,6 +21,8 @@ Help the author find and develop writing they recognize as their own. The centra
 | Develop an agreed draft | Write the requested next unit or complete piece | Its purpose, required meaning, and agreed voice hold throughout the requested scope |
 
 Use available context before asking a question. Read a named source when its contents matter; search history only for a genuine source gap. For mixed examples, author revisions, recurring or numbered feedback, or an unclear reaction, read [collaboration-loop.md](references/collaboration-loop.md).
+
+When a consequential reader, purpose, or direction gap needs clarification, or accepted choices would help a recurring writing task, read [Talis handoff](references/source-and-handoff.md#talis-handoff) for an optional reusable request. Continue a clear one-off task directly.
 
 Before drafting, revising, or reviewing actual writing or samples, read [prose-quality-gate.md](references/prose-quality-gate.md). Apply its strict default, mention the adjustable settings once per writing task, and retain the user’s selection for continuing drafts.
 

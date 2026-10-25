@@ -1,6 +1,6 @@
 interface:
   brand_color: "#23593B"
-  display_name: "7viow Writing Editor v0.6.2"
+  display_name: "7viow Writing Editor v0.7.0"
   short_description: "Audit, revise, or compose prose from a clear brief"
   default_prompt: "Use $7viow-writing-editor to deliver this prose edit or draft while preserving the supplied facts and accepted voice."
 policy:
