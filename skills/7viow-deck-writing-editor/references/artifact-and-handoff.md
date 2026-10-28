@@ -1,6 +1,12 @@
 # Content Handoff and Production Feedback
 
-Read the relevant section when preparing a handoff, interpreting a production issue, checking native readback, or supplying accessibility semantics. This skill writes and reviews content; the artifact executor operates the presentation tool.
+Read the relevant section when receiving an assigned writing or review unit, preparing a handoff, interpreting a production issue, checking native readback, or supplying accessibility semantics. This skill writes and reviews content; the artifact executor operates the presentation tool.
+
+## Assigned writing or review units
+
+When a producer delegates narrative, page copy, speaker support or content review, keep the existing owner and the assigned scope. Reuse the audience, source version, accepted decisions, unit's place in the whole, and relevant neighboring content. Resolve only missing context that changes the result; continue from the supplied brief without repeating intake or reorganizing the production team.
+
+Return the actual assigned copy or located review findings in the requested structure. An explicitly independent review returns evidence and reader impact to the owner for repair; rewriting the material and certifying that revision yourself does not establish independence. The producer arranges any separate review context and remains responsible for visual, native-file and final production checks.
 
 ## Agree the next operation
 
@@ -35,6 +41,8 @@ For an autonomous creator, use a reference-and-invitation tone: explain the cont
 ## Source and handoff status
 
 Use one owning source for later native edits. Derived previews and exports are representations of it. Fix the owning source and regenerate representations rather than silently diverging them.
+
+When populating dates or quantities in a handoff, apply [source precision](claim-and-copy-boundaries.md#quantitative-and-time-sensitive-material) to both the text and structured fields.
 
 A handoff can be a review candidate, an authorized trial, or approved production content. State the actual status. Missing final approval does not prevent preparing a clearly labeled review or trial package; it prevents claiming that final approval exists.
 

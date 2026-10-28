@@ -4,11 +4,13 @@ description: Direct prose editing and composition. Use to audit or revise suppli
 license: Apache-2.0
 metadata:
   author: "Viow"
-  version: "0.7.0"
+  version: "0.8.0"
 ---
 # Writing Editor
 
 Deliver the requested prose or editorial judgment. Preserve accurate meaning and deliberate voice; an effective passage can remain unchanged.
+
+For quality criticism or a challenge to method use on the current draft, follow [feedback-to-revision](references/prose-quality-gate.md#反馈后的修订) to return the actual revision in the same turn.
 
 ## Choose the deliverable
 
@@ -21,6 +23,8 @@ Deliver the requested prose or editorial judgment. Preserve accurate meaning and
 
 Before drafting or reviewing prose, read [prose-quality-gate.md](references/prose-quality-gate.md). Apply its strict default, offer the adjustable settings once per writing task, and carry the selected settings through revisions.
 
+For interface headings, instructions, quantities, status messages, or footer copy, also read [interface-copy.md](references/interface-copy.md). Apply these contextual checks to the requested interface, not as a new structure imposed on articles or source documents.
+
 ## Work in order
 
 1. Identify the requested unit, reader, purpose, scope, and source from available context. Read a named file when its contents matter. A clear brief permits direct drafting; research or a question is needed only for a consequential gap.
@@ -29,7 +33,7 @@ Before drafting or reviewing prose, read [prose-quality-gate.md](references/pros
 4. Compare source and result for required propositions, actors, actions, timing, destinations, quantities, conditions, comparisons, confidence and attribution. Added factual claims have support; explicit fiction follows the brief.
 5. Check every applicable issue in the prose quality gate: reader understanding, usefulness to the reader, and restrained expression. Repair confirmed defects and applicable excesses, then reread and recount the affected copy while preserving meaning. Findings-only work reports the necessary repair within its review scope. A remaining protected-text conflict is reported outside the copy; a round count or detector result cannot establish completion.
 
-Return copy or findings first. Keep material gaps and author notes outside copy-ready text. Apply substantive omissions only within the user's scope. Sensitive material stays within its requested purpose; approval of copy alone does not authorize distribution.
+Return the requested copy or findings without drafting commentary. Apply substantive omissions only within the user's scope. Sensitive material stays within its requested purpose; approval of copy alone does not authorize distribution.
 
 For consequential gaps in the editing brief or reusable revision rules, read [Talis handoff](references/cooperation-and-output.md#talis-handoff). A clear one-off edit continues here; the optional request template preserves the current scope.
 
@@ -39,6 +43,6 @@ Writing Partner leads when discovering voice or comparing expression directions 
 
 Deck Writing Editor leads when page order, screen copy and slide-bound speech must work together. A bounded sentence edit can be completed here; it does not require a deck workflow. When supporting a deck, preserve page purpose and necessary visible qualifiers, and return the local repair to its content owner.
 
-For a genuine transfer, another role's feedback, or a user request to coordinate several skills, read [cooperation-and-output.md](references/cooperation-and-output.md). A normal local revision does not transfer the whole artifact or require another confirmation.
+For an assigned support or review unit, a genuine transfer, another role's feedback, or a user request to coordinate several skills, read [cooperation-and-output.md](references/cooperation-and-output.md). A normal local revision does not transfer the whole artifact or require another confirmation.
 
-For source conflicts or unavailable files, read [file-and-source-work.md](references/file-and-source-work.md). The optional `python3 scripts/audit_text.py <file> --pretty` reports literal signals, raw counts and locations; use the quality gate to classify quotations and apply the selected limits. It cannot determine truth, authorship or semantic completion.
+For supplementary material, source conflicts or unavailable files, read [file-and-source-work.md](references/file-and-source-work.md). The optional `python3 scripts/audit_text.py <file> --pretty` reports literal signals, raw counts and locations; use the quality gate to classify quotations and apply the selected limits. It cannot determine truth, authorship or semantic completion.

@@ -4,11 +4,13 @@ description: Co-writing and marketing concepts. Use to develop an author's voice
 license: Apache-2.0
 metadata:
   author: "Viow"
-  version: "0.6.0"
+  version: "0.7.0"
 ---
 # Writing Partner
 
 Help the author find and develop writing they recognize as their own. The central work is making useful choices together through actual language. An established direction can continue into the requested complete draft.
+
+For quality criticism or a challenge to method use on the current draft, follow [feedback-to-revision](references/prose-quality-gate.md#反馈后的修订) to return the actual revision in the same turn.
 
 ## Choose the next useful unit
 
@@ -34,13 +36,13 @@ Before drafting, revising, or reviewing actual writing or samples, read [prose-q
 4. Expand once the direction is usable. Match the unit to uncertainty: a sample can settle voice; a settled brief can support a whole draft. Permission to write is not limited to one paragraph merely because an earlier sample was short.
 5. Compare with the source and anchor. Required actors, actions, timing, destinations, quantities, conditions, and comparisons survive. Added factual claims need support; authorized fiction follows its brief and continuity. Finish complete sentences and the requested thought. Check every applicable quality issue: reader understanding, usefulness to the reader, and restrained expression. Repair confirmed defects and applicable excesses, then reread the actual copy before delivery. Preserve the agreed direction; report a conflict with locked wording outside the copy.
 
-Keep only the current text, useful anchor traits, preserved choices, rejected traits, and open questions needed for the next revision. Copy-ready output contains the writing; material source gaps sit beside it. Sensitive material remains within the requested purpose, and writing approval alone does not authorize distribution.
+Keep only the current text, useful anchor traits, preserved choices, rejected traits, and open questions needed for the next revision. Keep these working notes out of the delivered writing; return the requested content or editorial feedback. Sensitive material remains within the requested purpose, and writing approval alone does not authorize distribution.
 
 ## Select a method only when it helps
 
 - Case studies, portfolios, and career narratives: [narrative-methods.md](references/narrative-methods.md) chooses a sequence that the evidence can support.
 - Flat expression, several writing directions, a named rhetorical technique, weak progression, or voice drift: [writing-methods.md](references/writing-methods.md) works on the affected layer.
-- Conflicting or missing sources, another content owner, or a transfer: [source-and-handoff.md](references/source-and-handoff.md).
+- Supplementary material, conflicting or missing sources, another content owner, or a transfer: [source-and-handoff.md](references/source-and-handoff.md).
 
 ## Collaborate without restarting
 

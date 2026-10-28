@@ -2,7 +2,7 @@
 
 # New Prose Composition
 
-Use for new continuous prose. Existing-text diagnosis and ordinary revision belong to detect and rewrite. A user's request to rebuild an article can legitimately enter this workflow.
+Use the full workflow for new continuous prose or a requested article rebuild. For reprioritizing an existing draft within a fixed overall length, use only [Structure](#2-structure) before returning to the revision method. Ordinary diagnosis and revision belong to detect and rewrite.
 
 ## Choose the writing contract
 
@@ -32,6 +32,8 @@ Choose an order that advances the reader's understanding: mechanism and proof, i
 
 Allocate length by importance and difficulty, not equal section sizes or a fixed percentage template. Preserve supporting examples and qualifications when compressing. A long piece benefits from an outline; a short piece can keep the outline internal.
 
+When the emphasis changes within a fixed overall length, identify which key evidence needs more space and which lower-priority content can be shortened or reordered to provide it. Keep required projects and actors independently identifiable and retain the accepted positioning. Make the changed emphasis visible in the selected evidence and its treatment; changing titles or uniformly shortening every section cannot do that work.
+
 If direction is unresolved and user judgment changes the result, show a small outline or opening. If the user asks to draft directly, proceed with a reasonable stated interpretation instead of adding a confirmation gate.
 
 Structure is ready when required material has a place, dependencies are coherent, and the intended reader can follow the progression. An objection that changes the thesis returns to the previous stage.
@@ -40,7 +42,7 @@ Structure is ready when required material has a place, dependencies are coherent
 
 Write the requested unit or complete piece from the accepted or permitted direction. Use concrete evidence, examples, and language that belongs to this subject. Keep factual additions supported; make authorized fictional invention coherent with the premise.
 
-A brief may mix operational facts, directions to the writer and the document's review state. Build recipient copy from the facts that matter to that reader's understanding, choice or next action. A drafting caution about an estimate, for example, can become the supplied scope and price-confirmation condition in client copy. Keep editing instructions and draft-review status in the delivery note; an unconfirmed activity date belongs in the copy because it affects participation. Apply this distinction to each recipient's version, including one intended for the author to read or use.
+A brief may mix operational facts, directions to the writer and the document's review state. Use the [copy-use check](prose-quality-gate.md#正文用途) to select what serves the reader's current task. Write the supported facts and relationships directly. Do not turn a drafting caution or source gap into explanatory copy, or move it into an internal edition or delivery note. Apply the same judgment to every recipient's version, including one intended for the author to read or use.
 
 Use a primary comparison, example, scene, or causal chain when it genuinely carries understanding. Do not manufacture an analogy or a personal mistake to fill a framework.
 

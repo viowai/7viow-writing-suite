@@ -1,6 +1,6 @@
 # Sources and a Change of Writing Owner
 
-Use when sources are missing or contradictory, when another role contributes to the same unit, or when responsibility for the result actually transfers.
+Use when supplementing a selected draft, resolving missing or contradictory sources, contributing to another owner's work, or transferring responsibility for the result.
 
 ## Recover only what changes the writing
 
@@ -8,15 +8,19 @@ State the claim or decision the search must resolve. Read the current source or 
 
 Distinguish the source location, subject owner, decision status, and what was actually read. Historical drafts, rejected directions, factual evidence, style examples, and provisional plans have different uses. A plan does not prove completion and a prototype does not prove adoption.
 
+Preserve the user's selected disclosure scope when using supplementary material. Use it to verify, understand, or complete the current request. A true detail missing from the selected draft is not by itself an error; adding it or restoring a deletion requires authorization for that expansion. Distinguish this choice from correcting a known factual error.
+
 Compare conflicting passages with the user's applicable decisions. Resolve wording, order, voice, factual evidence, and distribution separately. Apply a clear later instruction to its named scope. Isolate an unresolved factual conflict while continuing supported content.
 
 Finish recovery when the relation needed for the next writing unit is resolved or the missing evidence can be named precisely. Discovery authorizes reading within the task; moving, deleting, or rewriting the source archive needs its own instruction.
 
 ## Contribute to an existing owner
 
-Read the current excerpt and the requested dimension. If Deck owns the page sequence, return voice alternatives within its page purpose. If Editor requests a direction choice before a substantial rewrite, return the chosen movement, actual sample, and relevant preserve/change decisions.
+Read the assigned excerpt and requested dimension with its source version, reader, accepted decisions, place in the whole and relevant neighboring content. Ask only for missing context that changes the contribution. If Deck owns the page sequence, return voice alternatives within its page purpose. If Editor requests a direction choice before a substantial rewrite, return the chosen movement, actual sample, and relevant preserve/change decisions.
 
 A suggestion remains a suggestion until the authorized owner integrates it or the user selects it. Support does not silently replace the whole artifact, add factual claims, or undo an accepted order. Avoid repeating an intake the source and handoff already answer.
+
+For an explicitly independent review, return located findings and evidence to the owner for repair. Rewriting the material and certifying that revision yourself does not establish independence; the upstream owner arranges any separate review context.
 
 ## Transfer usable material
 

@@ -30,7 +30,7 @@ Compare source and output directly:
 
 Use a small mapping for a consequential merge or a long transformation when direct comparison is hard. Ordinary sentence edits do not need a record per clause.
 
-Where the source leaves a mechanism unexplained, retain the supported claim and flag the gap outside the copy.
+When detail is missing, distinguish an explicitly undecided matter, information absent from the supplied material, and an established rule whose details are not supplied. Absence alone does not establish that a rule is unwritten or an activity has not occurred. Retain the supported meaning and apply the [copy-use check](prose-quality-gate.md#正文用途). Missing information limits what can be asserted; it does not automatically become copy or an appended note.
 
 For example, “设备更换后的前三天，值班员每小时记录一次温度，以判断设备能否持续稳定运行” can become “更换设备后的前三天，值班员每小时记录温度，判断运行是否持续稳定。” “建立稳定性监测机制” loses the actor, action, duration and frequency; adding an alarm threshold would invent a fact.
 
@@ -56,6 +56,8 @@ After repairing a heading or paragraph lead, reread the body in that context. Ke
 
 ### Condense by sentence function
 
+For a requested shift of emphasis within a fixed overall length, use [length allocation](composition-engine.md#2-structure) before cutting individual sentences.
+
 Identify what a candidate deletion contributes using the gate's [copy-use check](prose-quality-gate.md#正文用途). Keep an example that explains the claim, a concrete action, a responsibility, a distinct service item or a condition that changes the decision. Combine repeated wording around these functions rather than replacing the functions with a generic summary.
 
 For example, this source contains a removable introduction and useful explanation: “下面是门店活动方案的核心内容。说白了，我们想多卖货；但满减也有成本。比如，顾客原本就要买两件时，第二件降价可能只会少赚，所以先分清哪些订单是活动新增的。” Cut the first sentence; the remaining passage supplies the author's aim, tone, example and decision. “本方案旨在优化促销，实现商业价值” is shorter but removes that work.
@@ -72,6 +74,6 @@ Use [prose-quality-gate.md](prose-quality-gate.md) for the selected settings, ev
 
 ## Deliver the result
 
-For diagnosis, give located findings and why each affects the reader; a valid passage needs no invented problem. For rewriting, return the revised unit and only material notes. For a file edit, report saved locations and readback. Put consequential source gaps outside copy-ready text.
+For diagnosis, give located findings and why each affects the reader; a valid passage needs no invented problem. For rewriting, return the revised unit. For a file edit, identify the saved result. Apply the copy-use check to any accompanying text instead of automatically appending source gaps or author notes.
 
 Apply substantive deletions when authorized. If ordinary polishing would require discarding a unique fact or changing a decision, identify that concrete choice first. Do not ask again for an omission already granted. Follow the user's requested comparison dimensions, sequence, and artifact format.

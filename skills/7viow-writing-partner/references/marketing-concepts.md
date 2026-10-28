@@ -54,7 +54,7 @@ Determine who receives the message, who acts, and who benefits. They may be diff
 
 Adapt what the reader is choosing and why it matters to them. Addressing a parent, colleague, or partner requires more than changing the noun in a participant's line. The supporter may care about seeing someone become independent; the participant may care about doing something they can call their own.
 
-An action can sit in the headline, supporting copy, button, or surrounding placement. Keep the overall message intelligible without forcing the same opening or a full call to action into every line. Writing for a possible partner or viewer does not establish that cooperation, an event, or access is available. If that fact is unresolved, keep the candidate's intended use clear beside the copy and name the specific dependency.
+An action can sit in the headline, supporting copy, button, or surrounding placement. Keep the overall message intelligible without forcing the same opening or a full call to action into every line. Writing for a possible partner or viewer does not establish that cooperation, an event, or access is available. Resolve consequential uncertainty from the brief or the working conversation; do not write an unsupported invitation and append a source-gap explanation to excuse it.
 
 ## Preserve imagination and distinguish claims
 
@@ -69,7 +69,7 @@ Read the whole expression in its intended placement to decide what it asks the a
 
 Neither a particular verb nor an emotional tone settles the category. “Imagine” cannot disguise a concrete promise, and an invitation does not automatically promise that every reader will achieve its imagined future. Respect accepted intensity while keeping this distinction clear.
 
-Review a specific expression when its likely reading changes a material claim. Resolve the issue in the wording or place a consequential condition where the audience needs it to decide. Keep unresolved source needs beside the draft. This is a targeted writing judgment, not a sentence-by-sentence evidence dossier or a disclaimer attached to every imaginative line.
+Review a specific expression when its likely reading changes a material claim. Resolve the issue in the wording, preserving the supported meaning. Use the [copy-use check](prose-quality-gate.md#正文用途) for any accompanying text; unresolved source needs are not automatic additions to the draft. This is a targeted writing judgment, not a sentence-by-sentence evidence dossier or a disclaimer attached to every imaginative line.
 
 ## Deliver the writing
 

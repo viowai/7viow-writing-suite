@@ -24,13 +24,13 @@ Claude Code 把 `codex` 换成 `claude-code`，Cursor 换成 `cursor`。默认�
 
 ## 选择技能，开始写作
 
-[套装 v0.2.0](https://github.com/viowai/7viow-writing-suite/releases/tag/v0.2.0) 包含以下三个技能。套装与技能分别编号，更新时以对应入口为准。
+[套装 v0.3.0](https://github.com/viowai/7viow-writing-suite/releases/tag/v0.3.0) 包含以下三个技能。套装与技能分别编号，更新时以对应入口为准。
 
 | 技能 | 版本 | 适合做什么 | 安装后的第一条请求 |
 |---|---|---|---|
-| [Writing Partner](skills/7viow-writing-partner/SKILL.md) | 0.6.0 | 找作者声音、发展营销概念、比较表达方向、连续共写 | 用 Writing Partner，根据这些事实给我三个不同的开头，再按我选中的方向继续写。 |
-| [Writing Editor](skills/7viow-writing-editor/SKILL.md) | 0.7.0 | 直接审阅、改稿、编辑文件，或从明确简报成稿 | 用 Writing Editor 修改下面这段文字，保留事实、数字和我的立场：…… |
-| [Deck Writing Editor](skills/7viow-deck-writing-editor/SKILL.md) | 0.6.0 | 安排演示叙事、页序、页面文字、讲稿与制作交接 | 用 Deck Writing Editor，把这些材料整理成6页演示内容，每页给标题、屏幕文案和讲述支持。 |
+| [Writing Partner](skills/7viow-writing-partner/SKILL.md) | 0.7.0 | 找作者声音、发展营销概念、比较表达方向、连续共写 | 用 Writing Partner，根据这些事实给我三个不同的开头，再按我选中的方向继续写。 |
+| [Writing Editor](skills/7viow-writing-editor/SKILL.md) | 0.8.0 | 直接审阅、改稿、编辑文件，或从明确简报成稿 | 用 Writing Editor 修改下面这段文字，保留事实、数字和我的立场：…… |
+| [Deck Writing Editor](skills/7viow-deck-writing-editor/SKILL.md) | 0.7.0 | 安排演示叙事、页序、页面文字、讲稿与制作交接 | 用 Deck Writing Editor，把这些材料整理成6页演示内容，每页给标题、屏幕文案和讲述支持。 |
 
 在 Codex 可用 `$7viow-writing-partner`、`$7viow-writing-editor`、`$7viow-deck-writing-editor` 明确调用；其他宿主可从技能菜单选择，或在请求中写出名称。安装后如果当前会话没有显示新技能，先新开会话或刷新技能列表。
 

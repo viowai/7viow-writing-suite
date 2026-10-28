@@ -4,11 +4,13 @@ description: "Presentation content: audit a deck, plan its narrative and page se
 license: Apache-2.0
 metadata:
   author: "Viow"
-  version: "0.6.0"
+  version: "0.7.0"
 ---
 # Deck Writing Editor
 
 Build a presentation that changes what the intended audience understands or can decide. Preserve the sources' factual strength while making the story, page responsibilities, and language useful.
+
+For quality criticism or a challenge to method use on the current draft, follow [feedback-to-revision](references/prose-quality-gate.md#反馈后的修订) to return the actual revision in the same turn.
 
 ## Select a content route
 
@@ -26,7 +28,7 @@ Before writing or reviewing audience copy, read [prose-quality-gate.md](referenc
 
 ## Build the audience movement
 
-1. Establish the audience, use context, reading mode, intended understanding or decision, and applicable source versions. For conflicting source status or approval, read [authority-and-routing.md](references/authority-and-routing.md).
+1. Establish the audience, use context, reading mode, intended understanding or decision, and applicable source versions. For supplementary sources, conflicting source status or approval, read [authority-and-routing.md](references/authority-and-routing.md).
 2. Separate supported facts, observations, decisions, plans, and hypotheses. For claim checks, Ask pages, citations, or quantitative material, read [claim-and-copy-boundaries.md](references/claim-and-copy-boundaries.md).
 3. For page architecture or page writing, read [narrative-and-page-contract.md](references/narrative-and-page-contract.md). Work from the audience's questions; give each substantive page a primary proposition and a distinct contribution.
 4. Write the requested content. Keep audience copy, speaker support, and author/production notes in labeled sections; when handing over pages, keep each page's related sections adjacent and preserve any user-specified structure.
@@ -37,12 +39,12 @@ Before writing or reviewing audience copy, read [prose-quality-gate.md](referenc
 - For consequential gaps in the audience or decision brief, or a recurring presentation request, read [Talis handoff](references/artifact-and-handoff.md#talis-handoff). Keep an established page task with its current content owner.
 
 - For long-deck expansion, conservative page compression, continuation from manual edits, or serial chapter revision, read the applicable section of [long-deck-revision.md](references/long-deck-revision.md).
-- For production from supplied content, a reference for autonomous creation, a sendable brief, a returned production issue, native readback, or accessibility handoff, read the corresponding section of [artifact-and-handoff.md](references/artifact-and-handoff.md).
+- For an assigned writing or review unit, production from supplied content, a reference for autonomous creation, a sendable brief, a returned production issue, native readback, or accessibility handoff, read the corresponding section of [artifact-and-handoff.md](references/artifact-and-handoff.md).
 - For findings-only review or turning user feedback into located findings, read “Findings and repair scope” in [quality-gates-and-profiles.md](references/quality-gates-and-profiles.md).
 - When drafting an Ask from a brief, use the brief's confirmed parties, action, timing, and conditions. When extracting an existing Ask, preserve its actual meaning. Content requests and real external actions remain separate.
 
 Preserve valid facts, qualifiers, approved expressions, and intentional repetition. A clear user instruction can reopen the named dimension; retain unaffected decisions. Unknown template capacity limits claims about fit, not the ability to write a content candidate. A content review does not prove native rendering, visual quality, or publication readiness.
 
-Deck remains the content owner when the requested result depends on page sequence, screen copy and slide-bound speech. Writing Partner can contribute a requested voice sample or opening direction within the agreed audience and page purpose. Writing Editor can audit or repair named language while preserving the page's claim, evidence limits and role. Integrate these contributions into one manuscript; support does not silently replace its structure.
+Deck remains the content owner for its agreed unit when the requested result depends on page sequence, screen copy and slide-bound speech. Writing Partner can contribute a requested voice sample or opening direction within the agreed audience and page purpose. Writing Editor can audit or repair named language while preserving the page's claim, evidence limits and role. Integrate these contributions into one manuscript; support does not silently replace its structure.
 
 For a multi-skill request, choose only the support needed and use the cooperation section in [authority-and-routing.md](references/authority-and-routing.md). A fresh continuous-prose task normally belongs to Editor; collaborative discovery of author voice belongs to Partner. A simple local edit can finish in its current role. Native production uses the selected artifact tool and actual task authorization.

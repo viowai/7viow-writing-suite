@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "7viow-deck-writing-editor",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Source-bounded deck narrative, Page Contracts, speaker support, and content handoff.",
   "author": {
     "name": "Viow"

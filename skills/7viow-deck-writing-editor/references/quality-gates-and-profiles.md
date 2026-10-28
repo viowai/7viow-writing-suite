@@ -41,7 +41,7 @@ Read titles, screen copy, and speaker support together for meaning. Use [prose-q
 
 Screen copy states the result or explains its evidence. Cut narration about how the author assembled or arranged the slide when the audience can already see it. Explain a grouping convention only when the audience needs it to interpret the evidence; preserve the meaning in the actual categories or labels where possible.
 
-In a reply to a reviewer, answer the requested change before repeating background they supplied; keep only the new fact needed to judge it. A standalone deck still establishes the context its audience needs. Author and production notes retain required source and review guidance outside audience copy. Page order, claim fidelity, and the agreed content owner remain authoritative.
+In a reply to a reviewer, answer the requested change before repeating background they supplied; keep only the new fact needed to judge it. A standalone deck still establishes the context its audience needs. Source and review guidance serves a requested audit or production handoff; apply the same copy-use check before including it. Page order, claim fidelity, and the agreed content owner remain authoritative.
 
 ## Presentation profiles
 

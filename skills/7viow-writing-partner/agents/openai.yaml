@@ -1,6 +1,6 @@
 interface:
   brand_color: "#23593B"
-  display_name: "7viow Writing Partner v0.6.0"
+  display_name: "7viow Writing Partner v0.7.0"
   short_description: "Develop author voice and marketing concepts"
   default_prompt: "Use $7viow-writing-partner to develop writing directions or marketing concepts from this brief and my feedback."
 policy:

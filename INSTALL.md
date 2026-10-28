@@ -22,7 +22,7 @@
 npx --yes skills@1.7.4 add viowai/7viow-writing-suite --agent codex --skill "*" --copy --yes
 ```
 
-固定安装本次发行时，将命令中的 `viowai/7viow-writing-suite` 换成 `https://github.com/viowai/7viow-writing-suite/tree/v0.2.0`。
+固定安装本次发行时，将命令中的 `viowai/7viow-writing-suite` 换成 `https://github.com/viowai/7viow-writing-suite/tree/v0.3.0`。
 
 只需要 Editor 时，把 `--skill "*"` 换成 `--skill 7viow-writing-editor`。更换宿主时只替换 `--agent` 参数：
 
